@@ -1,6 +1,6 @@
 # Coding-one-weekly-assessment
 
-Weekly assesment from Yiren Wang:
+From Yiren Wang:
 
 Week1:
 https://mimicproject.com/code/4bdec27e-f020-1677-17f6-43220ed814b6
