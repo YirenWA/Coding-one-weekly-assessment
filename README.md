@@ -23,3 +23,4 @@ https://mimicproject.com/code/c2a8fca9-d6d9-122b-af58-bd5275b09e0c
 
 Week8:
 https://mimicproject.com/code/bdc165ce-31ba-ece9-ce3e-3896a8ca392e
+![w8](https://user-images.githubusercontent.com/119879041/206046236-ff701dd0-59ee-4de8-8216-a20f120d48f6.png)
